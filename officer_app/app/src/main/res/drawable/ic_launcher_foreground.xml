@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.7"
+        android:scaleY="1.7"
+        android:translateX="32.4"
+        android:translateY="30">
+        <!-- Щит -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M12,1L3,5v6c0,5.55 3.84,10.74 9,12 5.16,-1.26 9,-6.45 9,-12V5L12,1z" />
+        <!-- Звезда внутри щита (вырез цветом фона) -->
+        <path
+            android:fillColor="#0D47A1"
+            android:pathData="M12,6.2l1.3,2.65 2.92,0.42 -2.11,2.06 0.5,2.91L12,14.87l-2.61,1.37 0.5,-2.91 -2.11,-2.06 2.92,-0.42z" />
+    </group>
+</vector>

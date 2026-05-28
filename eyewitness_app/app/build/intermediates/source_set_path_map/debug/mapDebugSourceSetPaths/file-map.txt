@@ -1,0 +1,60 @@
+com.gibdd.eyewitness.app-runtime-saveable-release-0 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\00a0870f1249ea1e358f28308bf2f729\transformed\runtime-saveable-release\res
+com.gibdd.eyewitness.app-ui-geometry-release-1 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\00c3b3e27dd96ba1a2cbb5d13a491e73\transformed\ui-geometry-release\res
+com.gibdd.eyewitness.app-navigation-common-ktx-2.8.0-2 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0bae5949cbbc3cf463b4156e1c45dc42\transformed\navigation-common-ktx-2.8.0\res
+com.gibdd.eyewitness.app-lifecycle-livedata-core-2.8.4-3 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0c31b34eb40b38827e7738e80dc306a8\transformed\lifecycle-livedata-core-2.8.4\res
+com.gibdd.eyewitness.app-lifecycle-livedata-2.8.4-4 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0e2a56ea292b606cffd152d5a88a94c2\transformed\lifecycle-livedata-2.8.4\res
+com.gibdd.eyewitness.app-material-icons-core-release-5 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\12fca9ad0b93208587bf938cdf224b9b\transformed\material-icons-core-release\res
+com.gibdd.eyewitness.app-ui-util-release-6 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\15d1fc4d342347dd2049a596caf2522b\transformed\ui-util-release\res
+com.gibdd.eyewitness.app-ui-graphics-release-7 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d75f714484138cc5936f36e966ebcb5\transformed\ui-graphics-release\res
+com.gibdd.eyewitness.app-material3-release-8 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1e4fcd774ce21ed276ce28d3f2fb9149\transformed\material3-release\res
+com.gibdd.eyewitness.app-savedstate-ktx-1.2.1-9 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2205177f43c095e21b22d9e9ae5882f9\transformed\savedstate-ktx-1.2.1\res
+com.gibdd.eyewitness.app-graphics-path-1.0.1-10 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2556adbb4e62f8e5efbbc109a43f8752\transformed\graphics-path-1.0.1\res
+com.gibdd.eyewitness.app-customview-poolingcontainer-1.0.0-11 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2d5894f97e4cbbd0a65ca45aef3b7e3f\transformed\customview-poolingcontainer-1.0.0\res
+com.gibdd.eyewitness.app-animation-release-12 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2f5b4549d8976807dcb6510d816b8e6d\transformed\animation-release\res
+com.gibdd.eyewitness.app-datastore-release-13 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2fb697f8eb377a1d60d4ed9091ccc80b\transformed\datastore-release\res
+com.gibdd.eyewitness.app-lifecycle-livedata-core-ktx-2.8.4-14 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\3849a2fa639e097cacff40d13cf7c97e\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.gibdd.eyewitness.app-annotation-experimental-1.4.1-15 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\393340937b7529af5a2a5bfeff1bddff\transformed\annotation-experimental-1.4.1\res
+com.gibdd.eyewitness.app-coil-base-2.7.0-16 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\3d9adf690d09a0ce29581b30d3631bfa\transformed\coil-base-2.7.0\res
+com.gibdd.eyewitness.app-runtime-release-17 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\3eadc74810d765fad89a01c524c0460a\transformed\runtime-release\res
+com.gibdd.eyewitness.app-profileinstaller-1.3.1-18 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\3fba7c255d422eeb3c040067b093fec3\transformed\profileinstaller-1.3.1\res
+com.gibdd.eyewitness.app-startup-runtime-1.1.1-19 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\3fc9201a56b4a73e595bdde3411ce6de\transformed\startup-runtime-1.1.1\res
+com.gibdd.eyewitness.app-material-ripple-release-20 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4543d56969f26f2d015fa143e09a7a3e\transformed\material-ripple-release\res
+com.gibdd.eyewitness.app-lifecycle-runtime-compose-release-21 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\48d0494f34b98b7c2695d391f433c2f8\transformed\lifecycle-runtime-compose-release\res
+com.gibdd.eyewitness.app-lifecycle-viewmodel-compose-release-22 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\505eea0cb4f99bace808706bdf1ba444\transformed\lifecycle-viewmodel-compose-release\res
+com.gibdd.eyewitness.app-navigation-common-2.8.0-23 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\571f408f33ac03c34a6c7fd560a8c19d\transformed\navigation-common-2.8.0\res
+com.gibdd.eyewitness.app-ui-text-release-24 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\57db6ba5ce9ef3db2858e37f412228cf\transformed\ui-text-release\res
+com.gibdd.eyewitness.app-lifecycle-viewmodel-release-25 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5e7e6c512344b83ee694ad292fbf0c32\transformed\lifecycle-viewmodel-release\res
+com.gibdd.eyewitness.app-lifecycle-runtime-ktx-release-26 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\603a87fb4af5250d57a1c4607f5a1286\transformed\lifecycle-runtime-ktx-release\res
+com.gibdd.eyewitness.app-emoji2-1.3.0-27 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\655687e7f2987f195f6f6296966a1818\transformed\emoji2-1.3.0\res
+com.gibdd.eyewitness.app-core-ktx-1.13.1-28 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67316dcafcec28ab0fe878423d3bb265\transformed\core-ktx-1.13.1\res
+com.gibdd.eyewitness.app-navigation-runtime-2.8.0-29 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6d0513e5a8791529f0e8b930164bb31f\transformed\navigation-runtime-2.8.0\res
+com.gibdd.eyewitness.app-lifecycle-viewmodel-savedstate-2.8.4-30 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78b79b418affaa75e5a5c6c8a55500d9\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.gibdd.eyewitness.app-play-services-base-18.5.0-31 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7a803dde818d38d9aed10fb4f6d6b773\transformed\play-services-base-18.5.0\res
+com.gibdd.eyewitness.app-lifecycle-process-2.8.4-32 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7e7c3ed4cb0318fe229dca432689a940\transformed\lifecycle-process-2.8.4\res
+com.gibdd.eyewitness.app-animation-core-release-33 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8234d1624f53ae14f5552ad1bcc0b560\transformed\animation-core-release\res
+com.gibdd.eyewitness.app-ui-unit-release-34 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\86c0b1ba9485d3679d601be772eaa286\transformed\ui-unit-release\res
+com.gibdd.eyewitness.app-datastore-preferences-release-35 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\875ecac312ed9385c5dde4cc9962ddd4\transformed\datastore-preferences-release\res
+com.gibdd.eyewitness.app-activity-ktx-1.9.1-36 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8bfad3c0fda9aea00bce9a3164a931f9\transformed\activity-ktx-1.9.1\res
+com.gibdd.eyewitness.app-ui-release-37 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\95f7f13ca786805215d8a9ea441322f2\transformed\ui-release\res
+com.gibdd.eyewitness.app-savedstate-1.2.1-38 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9ad9e923edd28ec403420b68f6f3bff6\transformed\savedstate-1.2.1\res
+com.gibdd.eyewitness.app-core-runtime-2.2.0-39 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e364bc613d9b471a9b0a179afe90a30\transformed\core-runtime-2.2.0\res
+com.gibdd.eyewitness.app-lifecycle-viewmodel-ktx-2.8.4-40 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a93db0962addaa30eb5cae7740c36e8b\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.gibdd.eyewitness.app-core-1.13.1-41 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\bf2978fafc49e8113c2a781e4029cadc\transformed\core-1.13.1\res
+com.gibdd.eyewitness.app-activity-compose-1.9.1-42 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c051e3a1c1334e8a3aa085b968142f21\transformed\activity-compose-1.9.1\res
+com.gibdd.eyewitness.app-navigation-runtime-ktx-2.8.0-43 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\cc5b4760fd30b424c2b6d846f675b5a1\transformed\navigation-runtime-ktx-2.8.0\res
+com.gibdd.eyewitness.app-foundation-release-44 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d0af5d7b6e4b130b2596bf470a8b35eb\transformed\foundation-release\res
+com.gibdd.eyewitness.app-foundation-layout-release-45 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d18c5dad337c6786a8d9a69bb72f96dd\transformed\foundation-layout-release\res
+com.gibdd.eyewitness.app-material-icons-extended-release-46 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d3cdc9eef1c3a47ef2df9aee6ff1869a\transformed\material-icons-extended-release\res
+com.gibdd.eyewitness.app-datastore-core-release-47 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d5e345548c7ae898719b2579c284ec29\transformed\datastore-core-release\res
+com.gibdd.eyewitness.app-lifecycle-runtime-release-48 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ee049d8ab3f9b0810e5976cd146edb4d\transformed\lifecycle-runtime-release\res
+com.gibdd.eyewitness.app-activity-1.9.1-49 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ef18f2f7d06b18964397b5cac5bf7f7e\transformed\activity-1.9.1\res
+com.gibdd.eyewitness.app-play-services-basement-18.4.0-50 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ef1ec47e7b2127a2e8045dd95f1a52d2\transformed\play-services-basement-18.4.0\res
+com.gibdd.eyewitness.app-navigation-compose-2.8.0-51 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f3398ffb4d56f4ff2dcfc6b432174c5c\transformed\navigation-compose-2.8.0\res
+com.gibdd.eyewitness.app-appcompat-resources-1.6.1-52 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f6b90396fafa7357b470582612b684be\transformed\appcompat-resources-1.6.1\res
+com.gibdd.eyewitness.app-pngs-53 C:\eyewitness_app\app\build\generated\res\pngs\debug
+com.gibdd.eyewitness.app-resValues-54 C:\eyewitness_app\app\build\generated\res\resValues\debug
+com.gibdd.eyewitness.app-packageDebugResources-55 C:\eyewitness_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gibdd.eyewitness.app-packageDebugResources-56 C:\eyewitness_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gibdd.eyewitness.app-debug-57 C:\eyewitness_app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gibdd.eyewitness.app-debug-58 C:\eyewitness_app\app\src\debug\res
+com.gibdd.eyewitness.app-main-59 C:\eyewitness_app\app\src\main\res

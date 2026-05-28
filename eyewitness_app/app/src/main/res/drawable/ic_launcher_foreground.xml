@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Предупреждающий треугольник по центру safe-zone -->
+    <group
+        android:scaleX="1.7"
+        android:scaleY="1.7"
+        android:translateX="32.4"
+        android:translateY="30">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M12,2L1,21h22L12,2zM12,6.5L19.5,19.5H4.5L12,6.5z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M11,10h2v5h-2zM11,16h2v2h-2z" />
+    </group>
+</vector>

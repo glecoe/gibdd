@@ -1,0 +1,67 @@
+com.gibdd.officer.app-datastore-release-0 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\01181ec6966f4adb385f020431cc0ae5\transformed\datastore-release\res
+com.gibdd.officer.app-appcompat-resources-1.6.1-1 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\12f2a2ef421bf0973a6a30079a936d7c\transformed\appcompat-resources-1.6.1\res
+com.gibdd.officer.app-profileinstaller-1.3.1-2 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\res
+com.gibdd.officer.app-ui-graphics-release-3 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d3810d2f78f6d08a7231051bf1f907a\transformed\ui-graphics-release\res
+com.gibdd.officer.app-lifecycle-viewmodel-compose-release-4 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d818efd48dad302dabec4f9133cfc87\transformed\lifecycle-viewmodel-compose-release\res
+com.gibdd.officer.app-startup-runtime-1.1.1-5 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\res
+com.gibdd.officer.app-customview-poolingcontainer-1.0.0-6 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\249b53f60f0d263607d23e3b8c9c9af3\transformed\customview-poolingcontainer-1.0.0\res
+com.gibdd.officer.app-core-runtime-2.2.0-7 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\293da00d04b5f4877047205514c6296d\transformed\core-runtime-2.2.0\res
+com.gibdd.officer.app-navigation-common-2.8.0-8 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\297b159a7245ff54a570ad986d4a42e3\transformed\navigation-common-2.8.0\res
+com.gibdd.officer.app-core-ktx-1.13.1-9 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2fd6fababf4010b9732b5ecb46fd6120\transformed\core-ktx-1.13.1\res
+com.gibdd.officer.app-material-ripple-release-10 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\307be74e5ae9a795117da18bfa91cd4d\transformed\material-ripple-release\res
+com.gibdd.officer.app-media3-ui-1.4.1-11 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\314b6b4a1b1a690583169af07c0746ab\transformed\media3-ui-1.4.1\res
+com.gibdd.officer.app-navigation-runtime-2.8.0-12 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\36dc866d463175f1cb165867c7456489\transformed\navigation-runtime-2.8.0\res
+com.gibdd.officer.app-osmdroid-android-6.1.18-13 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\res
+com.gibdd.officer.app-annotation-experimental-1.4.1-14 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\41b3daa44a6cabd8430e60e5795781ec\transformed\annotation-experimental-1.4.1\res
+com.gibdd.officer.app-lifecycle-runtime-release-15 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4d3574850af255c1222b76791bc1fef4\transformed\lifecycle-runtime-release\res
+com.gibdd.officer.app-runtime-release-16 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ddda702f3d7bcb6f93ac15bb4a06dd2\transformed\runtime-release\res
+com.gibdd.officer.app-animation-core-release-17 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ec997de11e3d9c7d2cd099f1ee14b07\transformed\animation-core-release\res
+com.gibdd.officer.app-lifecycle-viewmodel-release-18 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5143e7c80b5d64e22b2ab09b53bd44bd\transformed\lifecycle-viewmodel-release\res
+com.gibdd.officer.app-ui-release-19 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5147036a0e6625d50e7f7e53785d7f1b\transformed\ui-release\res
+com.gibdd.officer.app-coil-base-2.7.0-20 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5247e5136f9032fc382dfa503d1dcbe7\transformed\coil-base-2.7.0\res
+com.gibdd.officer.app-foundation-release-21 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5255fd67d6f20b559748c84822fbe044\transformed\foundation-release\res
+com.gibdd.officer.app-play-services-basement-18.3.0-22 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\res
+com.gibdd.officer.app-lifecycle-livedata-2.8.4-23 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6558d744f16cba2a4f5aaf39011a9438\transformed\lifecycle-livedata-2.8.4\res
+com.gibdd.officer.app-datastore-preferences-release-24 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67b7095e35a168e66f2a8c3c9aef4419\transformed\datastore-preferences-release\res
+com.gibdd.officer.app-graphics-path-1.0.1-25 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\68637f9fda45f356177b02c75afcc418\transformed\graphics-path-1.0.1\res
+com.gibdd.officer.app-activity-1.9.1-26 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6cd4d3e123a5e0f58f82298a39922c3a\transformed\activity-1.9.1\res
+com.gibdd.officer.app-datastore-core-release-27 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7c566377048f80b243833dd6c98ec515\transformed\datastore-core-release\res
+com.gibdd.officer.app-firebase-messaging-24.0.1-28 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\res
+com.gibdd.officer.app-foundation-layout-release-29 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82ed723bc219b3c2ff28621497b52b26\transformed\foundation-layout-release\res
+com.gibdd.officer.app-emoji2-1.3.0-30 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\res
+com.gibdd.officer.app-lifecycle-livedata-core-2.8.4-31 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8cde5852f227f3b9180be9f8a0d08c0a\transformed\lifecycle-livedata-core-2.8.4\res
+com.gibdd.officer.app-recyclerview-1.3.0-32 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\91110eed64764ffb52bd2aa8a38ebae8\transformed\recyclerview-1.3.0\res
+com.gibdd.officer.app-ui-geometry-release-33 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\963f09326c51b8f4c57b57c991498a64\transformed\ui-geometry-release\res
+com.gibdd.officer.app-lifecycle-runtime-ktx-release-34 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9660f7c56a0349c21aa241cb6ed630db\transformed\lifecycle-runtime-ktx-release\res
+com.gibdd.officer.app-material-icons-core-release-35 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\982f9a54a9a32f9a2838b0c384d8e28b\transformed\material-icons-core-release\res
+com.gibdd.officer.app-play-services-base-18.0.1-36 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\res
+com.gibdd.officer.app-material3-release-37 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a206f039515ea02282e7e651cfcfaf1f\transformed\material3-release\res
+com.gibdd.officer.app-lifecycle-viewmodel-savedstate-2.8.4-38 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a3b3680ab9d4e09ad3447580031006eb\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.gibdd.officer.app-ui-unit-release-39 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a466013956fcacee6da3b24f1117342b\transformed\ui-unit-release\res
+com.gibdd.officer.app-navigation-runtime-ktx-2.8.0-40 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a4936e3900650b41111f201c49f1f838\transformed\navigation-runtime-ktx-2.8.0\res
+com.gibdd.officer.app-media3-exoplayer-1.4.1-41 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\res
+com.gibdd.officer.app-savedstate-ktx-1.2.1-42 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a7bf6b0b0eaeb8a0c50b72d7fb731ec1\transformed\savedstate-ktx-1.2.1\res
+com.gibdd.officer.app-lifecycle-runtime-compose-release-43 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\acb25854aee96893ee04274a34080c89\transformed\lifecycle-runtime-compose-release\res
+com.gibdd.officer.app-activity-compose-1.9.1-44 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b743ea82ee1327ccc29acc446d5ac691\transformed\activity-compose-1.9.1\res
+com.gibdd.officer.app-animation-release-45 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\bc1e4e8ae5212340cd4959ee89ef8c43\transformed\animation-release\res
+com.gibdd.officer.app-navigation-compose-2.8.0-46 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c15dd7e084746f3a552c706c0dddb022\transformed\navigation-compose-2.8.0\res
+com.gibdd.officer.app-runtime-saveable-release-47 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c39acd4377bbd3ec45d07f48a3e8783b\transformed\runtime-saveable-release\res
+com.gibdd.officer.app-navigation-common-ktx-2.8.0-48 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c469e8c126ffc6032b60caad895dac40\transformed\navigation-common-ktx-2.8.0\res
+com.gibdd.officer.app-lifecycle-process-2.8.4-49 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\res
+com.gibdd.officer.app-firebase-common-21.0.0-50 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\res
+com.gibdd.officer.app-ui-util-release-51 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ce0919e771d270ce2b70bc05202ab56e\transformed\ui-util-release\res
+com.gibdd.officer.app-activity-ktx-1.9.1-52 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d36dfa1e800be2c91b7bc635bb002599\transformed\activity-ktx-1.9.1\res
+com.gibdd.officer.app-lifecycle-viewmodel-ktx-2.8.4-53 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dbb6428e22967f329c71dab78dfe74ad\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.gibdd.officer.app-material-icons-extended-release-54 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd571ebde3eafc9607c460f8cde60a2c\transformed\material-icons-extended-release\res
+com.gibdd.officer.app-ui-text-release-55 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e485ba9568050e47547a03156a103405\transformed\ui-text-release\res
+com.gibdd.officer.app-core-1.13.1-56 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\res
+com.gibdd.officer.app-savedstate-1.2.1-57 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\eac20052037cae5a5ac1bd2ab346f7ec\transformed\savedstate-1.2.1\res
+com.gibdd.officer.app-lifecycle-livedata-core-ktx-2.8.4-58 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f1314f29d83a31008dbd382b18f65889\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.gibdd.officer.app-media-1.7.0-59 C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f7638d86cd3f4139152119c5f504c188\transformed\media-1.7.0\res
+com.gibdd.officer.app-pngs-60 C:\officer_app\app\build\generated\res\pngs\debug
+com.gibdd.officer.app-resValues-61 C:\officer_app\app\build\generated\res\resValues\debug
+com.gibdd.officer.app-packageDebugResources-62 C:\officer_app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gibdd.officer.app-packageDebugResources-63 C:\officer_app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gibdd.officer.app-debug-64 C:\officer_app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gibdd.officer.app-debug-65 C:\officer_app\app\src\debug\res
+com.gibdd.officer.app-main-66 C:\officer_app\app\src\main\res

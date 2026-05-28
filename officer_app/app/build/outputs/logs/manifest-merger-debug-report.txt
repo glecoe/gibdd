@@ -1,0 +1,725 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.media3:media3-ui:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\314b6b4a1b1a690583169af07c0746ab\transformed\media3-ui-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\84c585caf30e603c2d4fa2f16a17a560\transformed\media3-extractor-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82350b14a6faf00d3a1248b26a5f8b93\transformed\media3-container-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d226c8f7e2f1904525cd4043ab9ebdcb\transformed\media3-datasource-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5cd3f70223e812d6196f1137616ccf3d\transformed\media3-decoder-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ba9e44ae8069667aae8c2f1ed4277fc4\transformed\media3-database-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5b5a627c5b20f0ef309f0d4cc25c3b5d\transformed\media3-common-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f7638d86cd3f4139152119c5f504c188\transformed\media-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\91110eed64764ffb52bd2aa8a38ebae8\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\297b159a7245ff54a570ad986d4a42e3\transformed\navigation-common-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\36dc866d463175f1cb165867c7456489\transformed\navigation-runtime-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c469e8c126ffc6032b60caad895dac40\transformed\navigation-common-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a4936e3900650b41111f201c49f1f838\transformed\navigation-runtime-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c15dd7e084746f3a552c706c0dddb022\transformed\navigation-compose-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:17:1-66:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f4c45c509183905f32a42f4a44d9c7d0\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\795d12c39970b54730e94be36f0ad872\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78335a2461362ff68018a5f1fcb123cf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4254f7c739a4719dfe5e072414bc5c99\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:15:1-19:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a206f039515ea02282e7e651cfcfaf1f\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\37f8dfb8516eeecad189f1f429adf352\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9d97cb648be128d16b6e6e88bbf01610\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9950f1c9589f6c96feb586aed8ab8480\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5247e5136f9032fc382dfa503d1dcbe7\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a7bf6b0b0eaeb8a0c50b72d7fb731ec1\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\eac20052037cae5a5ac1bd2ab346f7ec\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\490316c4e7c958881e7ecb383db83a68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\06aacd74dab48f651525d3666ed5c215\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ec997de11e3d9c7d2cd099f1ee14b07\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\307be74e5ae9a795117da18bfa91cd4d\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\bc1e4e8ae5212340cd4959ee89ef8c43\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82ed723bc219b3c2ff28621497b52b26\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5255fd67d6f20b559748c84822fbe044\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a466013956fcacee6da3b24f1117342b\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\963f09326c51b8f4c57b57c991498a64\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ce0919e771d270ce2b70bc05202ab56e\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d3810d2f78f6d08a7231051bf1f907a\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e485ba9568050e47547a03156a103405\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f1314f29d83a31008dbd382b18f65889\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6558d744f16cba2a4f5aaf39011a9438\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\acb25854aee96893ee04274a34080c89\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8cde5852f227f3b9180be9f8a0d08c0a\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\be38579567045e130a5ebc7c5acb15f3\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5143e7c80b5d64e22b2ab09b53bd44bd\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4d3574850af255c1222b76791bc1fef4\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a3b3680ab9d4e09ad3447580031006eb\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dbb6428e22967f329c71dab78dfe74ad\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d818efd48dad302dabec4f9133cfc87\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9660f7c56a0349c21aa241cb6ed630db\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ff268889d7d238b096f58c962c2b0f24\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c39acd4377bbd3ec45d07f48a3e8783b\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ddda702f3d7bcb6f93ac15bb4a06dd2\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7c566377048f80b243833dd6c98ec515\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\01181ec6966f4adb385f020431cc0ae5\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67b7095e35a168e66f2a8c3c9aef4419\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e0b7df990bc8e9a9bd237aba53ea6fa\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f0a1269997468d7a17dc8f2c16047521\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6cd4d3e123a5e0f58f82298a39922c3a\transformed\activity-1.9.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d36dfa1e800be2c91b7bc635bb002599\transformed\activity-ktx-1.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b743ea82ee1327ccc29acc446d5ac691\transformed\activity-compose-1.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd571ebde3eafc9607c460f8cde60a2c\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\982f9a54a9a32f9a2838b0c384d8e28b\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5147036a0e6625d50e7f7e53785d7f1b\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\72e82ca9530a2c939798b4b8ff004b7a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e92881990b7938eff0742ed371f9f932\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\74175391859fbaa0861a4b872bb333ea\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\68637f9fda45f356177b02c75afcc418\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\12f2a2ef421bf0973a6a30079a936d7c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8ebfefc004967f3c29310b11dcdc7c58\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f36ea025b6c8a61ec58aa92c8ad52fb1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\249b53f60f0d263607d23e3b8c9c9af3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2fd6fababf4010b9732b5ecb46fd6120\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\41b3daa44a6cabd8430e60e5795781ec\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\886aed1f8734e11246aacfe2ae952a2d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d6b6560f8c32bdedd4970378843110a1\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8f0b784cc341b89c4b288f93bfd700e2\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67533c52e8c4927f2108d6cf727a1403\transformed\transport-api-3.1.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b8a7bee167e95448ac5f0ce48eb4ea90\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6b99c281d1fc6fcdea929b200c595bd4\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5a1b85eab74d135ad414130b6a3b38f6\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\22cbc0745838c774c5189e11b246b405\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd175ea04c34084bb3db206e3f749231\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ec0b563f784d70154bbf34fb37dc35e1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\293da00d04b5f4877047205514c6296d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5b5a627c5b20f0ef309f0d4cc25c3b5d\transformed\media3-common-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5b5a627c5b20f0ef309f0d4cc25c3b5d\transformed\media3-common-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:6:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:23:5-77
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:8:5-39:19
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml:8:5-39:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:28:5-64:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f4c45c509183905f32a42f4a44d9c7d0\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f4c45c509183905f32a42f4a44d9c7d0\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\795d12c39970b54730e94be36f0ad872\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\795d12c39970b54730e94be36f0ad872\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78335a2461362ff68018a5f1fcb123cf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78335a2461362ff68018a5f1fcb123cf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e0b7df990bc8e9a9bd237aba53ea6fa\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e0b7df990bc8e9a9bd237aba53ea6fa\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\886aed1f8734e11246aacfe2ae952a2d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\886aed1f8734e11246aacfe2ae952a2d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:13:9-50
+	android:usesCleartextTraffic
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.gibdd.officer.MainActivity
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:exported
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:22:27-74
+service#com.gibdd.officer.network.PushService
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:27:9-33:19
+	android:exported
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:28:13-48
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:31:25-75
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:35:9-37:41
+	android:value
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:37:13-38
+	android:name
+		ADDED from C:\officer_app\app\src\main\AndroidManifest.xml:36:13-89
+uses-sdk
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.media3:media3-ui:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\314b6b4a1b1a690583169af07c0746ab\transformed\media3-ui-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\314b6b4a1b1a690583169af07c0746ab\transformed\media3-ui-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\84c585caf30e603c2d4fa2f16a17a560\transformed\media3-extractor-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\84c585caf30e603c2d4fa2f16a17a560\transformed\media3-extractor-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82350b14a6faf00d3a1248b26a5f8b93\transformed\media3-container-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82350b14a6faf00d3a1248b26a5f8b93\transformed\media3-container-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d226c8f7e2f1904525cd4043ab9ebdcb\transformed\media3-datasource-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d226c8f7e2f1904525cd4043ab9ebdcb\transformed\media3-datasource-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5cd3f70223e812d6196f1137616ccf3d\transformed\media3-decoder-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5cd3f70223e812d6196f1137616ccf3d\transformed\media3-decoder-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ba9e44ae8069667aae8c2f1ed4277fc4\transformed\media3-database-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ba9e44ae8069667aae8c2f1ed4277fc4\transformed\media3-database-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5b5a627c5b20f0ef309f0d4cc25c3b5d\transformed\media3-common-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5b5a627c5b20f0ef309f0d4cc25c3b5d\transformed\media3-common-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a5b6cead7be82adaaf33a5586ad664a1\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f7638d86cd3f4139152119c5f504c188\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f7638d86cd3f4139152119c5f504c188\transformed\media-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\91110eed64764ffb52bd2aa8a38ebae8\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\91110eed64764ffb52bd2aa8a38ebae8\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\297b159a7245ff54a570ad986d4a42e3\transformed\navigation-common-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\297b159a7245ff54a570ad986d4a42e3\transformed\navigation-common-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\36dc866d463175f1cb165867c7456489\transformed\navigation-runtime-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\36dc866d463175f1cb165867c7456489\transformed\navigation-runtime-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c469e8c126ffc6032b60caad895dac40\transformed\navigation-common-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c469e8c126ffc6032b60caad895dac40\transformed\navigation-common-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a4936e3900650b41111f201c49f1f838\transformed\navigation-runtime-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a4936e3900650b41111f201c49f1f838\transformed\navigation-runtime-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c15dd7e084746f3a552c706c0dddb022\transformed\navigation-compose-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c15dd7e084746f3a552c706c0dddb022\transformed\navigation-compose-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f4c45c509183905f32a42f4a44d9c7d0\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f4c45c509183905f32a42f4a44d9c7d0\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\795d12c39970b54730e94be36f0ad872\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\795d12c39970b54730e94be36f0ad872\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78335a2461362ff68018a5f1fcb123cf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\78335a2461362ff68018a5f1fcb123cf\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4254f7c739a4719dfe5e072414bc5c99\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4254f7c739a4719dfe5e072414bc5c99\transformed\firebase-installations-interop-17.1.1\AndroidManifest.xml:17:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a206f039515ea02282e7e651cfcfaf1f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a206f039515ea02282e7e651cfcfaf1f\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\37f8dfb8516eeecad189f1f429adf352\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\37f8dfb8516eeecad189f1f429adf352\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9d97cb648be128d16b6e6e88bbf01610\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9d97cb648be128d16b6e6e88bbf01610\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9950f1c9589f6c96feb586aed8ab8480\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9950f1c9589f6c96feb586aed8ab8480\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5247e5136f9032fc382dfa503d1dcbe7\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5247e5136f9032fc382dfa503d1dcbe7\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a7bf6b0b0eaeb8a0c50b72d7fb731ec1\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a7bf6b0b0eaeb8a0c50b72d7fb731ec1\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\eac20052037cae5a5ac1bd2ab346f7ec\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\eac20052037cae5a5ac1bd2ab346f7ec\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\490316c4e7c958881e7ecb383db83a68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\490316c4e7c958881e7ecb383db83a68\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\06aacd74dab48f651525d3666ed5c215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\06aacd74dab48f651525d3666ed5c215\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ec997de11e3d9c7d2cd099f1ee14b07\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ec997de11e3d9c7d2cd099f1ee14b07\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\307be74e5ae9a795117da18bfa91cd4d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\307be74e5ae9a795117da18bfa91cd4d\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\bc1e4e8ae5212340cd4959ee89ef8c43\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\bc1e4e8ae5212340cd4959ee89ef8c43\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82ed723bc219b3c2ff28621497b52b26\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\82ed723bc219b3c2ff28621497b52b26\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5255fd67d6f20b559748c84822fbe044\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5255fd67d6f20b559748c84822fbe044\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a466013956fcacee6da3b24f1117342b\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a466013956fcacee6da3b24f1117342b\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\963f09326c51b8f4c57b57c991498a64\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\963f09326c51b8f4c57b57c991498a64\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ce0919e771d270ce2b70bc05202ab56e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ce0919e771d270ce2b70bc05202ab56e\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d3810d2f78f6d08a7231051bf1f907a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d3810d2f78f6d08a7231051bf1f907a\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e485ba9568050e47547a03156a103405\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e485ba9568050e47547a03156a103405\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f1314f29d83a31008dbd382b18f65889\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f1314f29d83a31008dbd382b18f65889\transformed\lifecycle-livedata-core-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6558d744f16cba2a4f5aaf39011a9438\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6558d744f16cba2a4f5aaf39011a9438\transformed\lifecycle-livedata-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\acb25854aee96893ee04274a34080c89\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\acb25854aee96893ee04274a34080c89\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8cde5852f227f3b9180be9f8a0d08c0a\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8cde5852f227f3b9180be9f8a0d08c0a\transformed\lifecycle-livedata-core-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\be38579567045e130a5ebc7c5acb15f3\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\be38579567045e130a5ebc7c5acb15f3\transformed\lifecycle-viewmodel-2.8.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5143e7c80b5d64e22b2ab09b53bd44bd\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5143e7c80b5d64e22b2ab09b53bd44bd\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4d3574850af255c1222b76791bc1fef4\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4d3574850af255c1222b76791bc1fef4\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a3b3680ab9d4e09ad3447580031006eb\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\a3b3680ab9d4e09ad3447580031006eb\transformed\lifecycle-viewmodel-savedstate-2.8.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dbb6428e22967f329c71dab78dfe74ad\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dbb6428e22967f329c71dab78dfe74ad\transformed\lifecycle-viewmodel-ktx-2.8.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d818efd48dad302dabec4f9133cfc87\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d818efd48dad302dabec4f9133cfc87\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9660f7c56a0349c21aa241cb6ed630db\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9660f7c56a0349c21aa241cb6ed630db\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ff268889d7d238b096f58c962c2b0f24\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ff268889d7d238b096f58c962c2b0f24\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c39acd4377bbd3ec45d07f48a3e8783b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c39acd4377bbd3ec45d07f48a3e8783b\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ddda702f3d7bcb6f93ac15bb4a06dd2\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\4ddda702f3d7bcb6f93ac15bb4a06dd2\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7c566377048f80b243833dd6c98ec515\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\7c566377048f80b243833dd6c98ec515\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\01181ec6966f4adb385f020431cc0ae5\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\01181ec6966f4adb385f020431cc0ae5\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67b7095e35a168e66f2a8c3c9aef4419\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67b7095e35a168e66f2a8c3c9aef4419\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e0b7df990bc8e9a9bd237aba53ea6fa\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9e0b7df990bc8e9a9bd237aba53ea6fa\transformed\play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f0a1269997468d7a17dc8f2c16047521\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f0a1269997468d7a17dc8f2c16047521\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6cd4d3e123a5e0f58f82298a39922c3a\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6cd4d3e123a5e0f58f82298a39922c3a\transformed\activity-1.9.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d36dfa1e800be2c91b7bc635bb002599\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d36dfa1e800be2c91b7bc635bb002599\transformed\activity-ktx-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b743ea82ee1327ccc29acc446d5ac691\transformed\activity-compose-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b743ea82ee1327ccc29acc446d5ac691\transformed\activity-compose-1.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd571ebde3eafc9607c460f8cde60a2c\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd571ebde3eafc9607c460f8cde60a2c\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\982f9a54a9a32f9a2838b0c384d8e28b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\982f9a54a9a32f9a2838b0c384d8e28b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5147036a0e6625d50e7f7e53785d7f1b\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5147036a0e6625d50e7f7e53785d7f1b\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\72e82ca9530a2c939798b4b8ff004b7a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\72e82ca9530a2c939798b4b8ff004b7a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e92881990b7938eff0742ed371f9f932\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e92881990b7938eff0742ed371f9f932\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\74175391859fbaa0861a4b872bb333ea\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\74175391859fbaa0861a4b872bb333ea\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\68637f9fda45f356177b02c75afcc418\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\68637f9fda45f356177b02c75afcc418\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\12f2a2ef421bf0973a6a30079a936d7c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\12f2a2ef421bf0973a6a30079a936d7c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8ebfefc004967f3c29310b11dcdc7c58\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8ebfefc004967f3c29310b11dcdc7c58\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f36ea025b6c8a61ec58aa92c8ad52fb1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f36ea025b6c8a61ec58aa92c8ad52fb1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\249b53f60f0d263607d23e3b8c9c9af3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\249b53f60f0d263607d23e3b8c9c9af3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2fd6fababf4010b9732b5ecb46fd6120\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\2fd6fababf4010b9732b5ecb46fd6120\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\41b3daa44a6cabd8430e60e5795781ec\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\41b3daa44a6cabd8430e60e5795781ec\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\886aed1f8734e11246aacfe2ae952a2d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\886aed1f8734e11246aacfe2ae952a2d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d6b6560f8c32bdedd4970378843110a1\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d6b6560f8c32bdedd4970378843110a1\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8f0b784cc341b89c4b288f93bfd700e2\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8f0b784cc341b89c4b288f93bfd700e2\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67533c52e8c4927f2108d6cf727a1403\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.1.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\67533c52e8c4927f2108d6cf727a1403\transformed\transport-api-3.1.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b8a7bee167e95448ac5f0ce48eb4ea90\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\b8a7bee167e95448ac5f0ce48eb4ea90\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6b99c281d1fc6fcdea929b200c595bd4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\6b99c281d1fc6fcdea929b200c595bd4\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5a1b85eab74d135ad414130b6a3b38f6\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5a1b85eab74d135ad414130b6a3b38f6\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\22cbc0745838c774c5189e11b246b405\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\22cbc0745838c774c5189e11b246b405\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd175ea04c34084bb3db206e3f749231\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\dd175ea04c34084bb3db206e3f749231\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ec0b563f784d70154bbf34fb37dc35e1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ec0b563f784d70154bbf34fb37dc35e1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\293da00d04b5f4877047205514c6296d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\293da00d04b5f4877047205514c6296d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\officer_app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\5ea525f74b1ca6e10152ba3bd67a7fdb\transformed\play-services-cloud-messaging-17.2.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:26:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:29:9-40:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:31:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:32:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:33:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:34:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:34:25-78
+meta-data#com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:38:17-92
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:46:9-53:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:49:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:47:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:54:9-63:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:55:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:57:13-59:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:59:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:58:17-122
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:60:13-62:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:62:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:24.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\826c17a121daff5d914e3cd9f9786ec3\transformed\firebase-messaging-24.0.1\AndroidManifest.xml:61:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\9a75acb181f92d8ae357bfe098e2f21b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\0d08b52b14108a7c5aba9663266de1f4\transformed\firebase-installations-18.0.0\AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\504ddf9e0c457707d97e36aa81ce8e28\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\ca488a30de8d51a6a39255bed7f5be3e\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1d8474672f7fc292ec9dd88a6937e7bc\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\8c578d228f57c71879caec4684e8d9aa\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.4] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\c7c060a3bfe58cc3498e9d4df1209507\transformed\lifecycle-process-2.8.4\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\636b600c2b50383c965c723e27dc98eb\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.gibdd.officer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.gibdd.officer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\e9fc47851a88fa4e99002642ca757a8b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.2.0] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\f81750f1cabf1eb7a9f65be372236e40\transformed\firebase-datatransport-18.2.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\d2060af0280ef2025366aeb84a11aa65\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\11bcab867e672a396695ffa5b409150e\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\1c11ccac52f74723dc738b13e7ef2373\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:9:5-12:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:10:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:15:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:18:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:21:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\Егор Андронов\.gradle\caches\8.9\transforms\39421efd654f20c266863fb4fea6b029\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:24:9-45
